@@ -32,6 +32,7 @@ npm install @types/jasmine @types/angular  @types/angular-animate @types/angular
 
 ### Running the Application during Development
 
+- Run `npm run tsc`.
 - Run `npm start`.
 - Navigate your browser to [http://localhost:8000/](http://localhost:8000/) to see the application 
   running.
