@@ -12,27 +12,9 @@ Each tagged commit is a separate lesson teaching a single aspect of the framewor
 The full tutorial can be found at https://docs.angularjs.org/tutorial.
 
 
-## Development with TypeScript
-
-The following docs describe how you can test and develop this application further.
-
-### Installing Dependencies
-
-Install TypeScript:
-
-```
-npm i typescript --save-dev
-```
-
- Install type definitions for the existing libraries: 
-
-```
-npm install @types/jasmine @types/angular  @types/angular-animate @types/angular-cookies @types/angular-mocks @types/angular-resource @types/angular-route @types/angular-sanitize --save-dev
-```
-
 ### Running the Application during Development
 
-- Run `npm run tsc`.
+- Run `npm install`.
 - Run `npm start`.
 - Navigate your browser to [http://localhost:8000/](http://localhost:8000/) to see the application 
   running.
